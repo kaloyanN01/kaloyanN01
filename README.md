@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaloyanN01
-- 👀 I’m interested in ...crypto,nfts and web3.0 aaaaaanddd programming :)
+- 👀 I’m interested in ...programming and web3.0 🖥️
 - 🌱 I’m currently learning ...C++
 
 <!---
